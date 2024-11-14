@@ -7,7 +7,7 @@ Route::get('/1200', function () {
 });
  Route::get('/1203',function(){
 
-    return view("bbubun2");
+    return view("bbubun2");///
  });
  Route::get('/1203',function(){
 
