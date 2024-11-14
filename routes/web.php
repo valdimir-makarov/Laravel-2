@@ -19,3 +19,12 @@ Route::get('/12034',function(){
     return view("bbubun2");
  });
 ///
+
+
+Route::get('/home', function () {
+    return view('home');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
