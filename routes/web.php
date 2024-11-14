@@ -18,4 +18,4 @@ Route::get('/12034',function(){
 
     return view("bbubun2");
  });
-///
+///bubun2
